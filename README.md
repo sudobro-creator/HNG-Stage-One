@@ -1,2 +1,2 @@
 # HNG-Stage-One
-A script that automates creating users and assigning the users to listed groups, set up home directories with appropriate permissions and ownership, generate random passwords for the users, and log all actions. Additionally, store the generated passwords securely. 
+A script that automates creating users and assigning the users to listed groups, set up home directories with appropriate permissions and ownership, generate random passwords for the users, and log all actions. Additionally, it stores the generated passwords securely giving only the file owner a read and write permission. This script ensures error handling for scenarios like existing users and provide clear documentation and comments within the script.
