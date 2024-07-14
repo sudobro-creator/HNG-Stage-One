@@ -48,4 +48,5 @@ Use this command to ensuer only the file owner can read it
 chmod 600 /var/secure/user_passwords.txt
 ```
 
+# Dev.to
 For more detailed walkthrough, check out <a href="https://dev.to/sudobro/automating-creation-of-users-and-groups-using-bash-script-step-by-step-guide-3dm0">my article</a>
